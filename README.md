@@ -16,3 +16,7 @@ CiliaNet consists of the following files for use in MATLAB:
 "CiliaNet-GUI-PublicRelease-v1.p" - Graphical User Interface (please run this file to initiate CiliaNet)
 
 "CiliaNet-NeuralNetwork-PublicRelease-v1.mat" - Trained Neural Network
+
+
+
+CiliaNet is also archived on Zenodo at: https://doi.org/10.5281/zenodo.7417618
